@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-This repository contains my solutions to various LeetCode problems. It's a personal collection where I track my progress, improve my problem-solving skills, and honestly keep me accountable. The solutions are organized by difficulty level.
+This repository contains my solutions to various LeetCode problems. It's a personal collection where I track my progress, improve my problem-solving skills, **and honestly keep me accountable**. The solutions are organized by difficulty level.
 
 
 
